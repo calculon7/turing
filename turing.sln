@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28721.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "turing", "turing\turing.csproj", "{9B8212F4-A0FF-4E51-AD3B-E615405EDB21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B8212F4-A0FF-4E51-AD3B-E615405EDB21}.Debug|x64.ActiveCfg = Debug|x64
+		{9B8212F4-A0FF-4E51-AD3B-E615405EDB21}.Debug|x64.Build.0 = Debug|x64
+		{9B8212F4-A0FF-4E51-AD3B-E615405EDB21}.Release|x64.ActiveCfg = Release|x64
+		{9B8212F4-A0FF-4E51-AD3B-E615405EDB21}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC306F49-450D-4684-AD32-691B0831FD25}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<root>
+  <ProjectsDirectory>\\REDACTED\sys\data\everyone\PROJECTS</ProjectsDirectory>
+  <ConfigFileDirectory>\\REDACTED\sys\data\everyone\VDC Group\_BIM Support\Turing\Config</ConfigFileDirectory>
+  <RootDownloadDirectory>\\REDACTED\sys\data\everyone\VDC Group\_BIM Support\Turing\Downloads</RootDownloadDirectory>
+  <LogFileDirectory>\\REDACTED\sys\data\everyone\VDC Group\_BIM Support\Turing\Logs</LogFileDirectory>
+  <CoordEmailDirectory>\\REDACTED\sys\data\everyone\VDC Group\_BIM Support\Turing\Coord Emails</CoordEmailDirectory>
+  <RoamerPath>C:\Program Files\Autodesk\Navisworks Manage 2018\roamer.exe</RoamerPath>
+</root>

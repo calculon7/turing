@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<exchange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://download.autodesk.com/us/navisworks/schemas/nw-exchange-12.0.xsd">
+  <optionset name="">
+    <optionset name="interface">
+      <optionset name="display">
+        <optionset name="drivers">
+          <optionset name="enabled">
+            <option name="d3d11_ogs" flags="32">
+              <data type="bool">false</data>
+            </option>
+            <option name="d3d9_ogs" flags="32">
+              <data type="bool">false</data>
+            </option>
+            <option name="opengl_ogs" flags="32">
+              <data type="bool">true</data>
+            </option>
+            <option name="software_d3d11_ogs" flags="32">
+              <data type="bool">true</data>
+            </option>
+            <option name="hardware_opengl" flags="32">
+              <data type="bool">true</data>
+            </option>
+            <option name="software_opengl" flags="32">
+              <data type="bool">true</data>
+            </option>
+          </optionset>
+        </optionset>
+      </optionset>
+    </optionset>
+  </optionset>
+</exchange>
